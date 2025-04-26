@@ -3,7 +3,7 @@ import box from '../images/love-box.jpg'
 const HomeTwo = () => {
   return (
     <div>
-      <div className="my-0 py-2 min-h-screen bg-white flex justify-center items-center">
+      <div className="my-1 py-0 min-h-screen bg-white flex justify-center items-center">
         <div className="container flex justify-center">
           <div className="max-w-sm">
             <div className="bg-red-700 relative shadow-lg hover:shadow-xl transition duration-500">
