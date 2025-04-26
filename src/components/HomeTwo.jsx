@@ -2,6 +2,7 @@ import box from '../images/love-box.jpg'
 
 const HomeTwo = () => {
   return (
+    <div>
       <div className="m-0 p-0 min-h-screen bg-white flex justify-center items-center">
         <div className="container flex justify-center">
           <div className="max-w-sm">
@@ -14,11 +15,12 @@ const HomeTwo = () => {
               </div>
               {/* <div className="absolute top-2 right-2 py-2 px-4 bg-white rounded-lg">
                 <span className="text-md">$150</span>
-              </div> */}
+            </div> */}
             </div>
           </div>
         </div>
       </div>
+    </div>
   )
 }
 
