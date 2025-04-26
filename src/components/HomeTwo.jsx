@@ -2,7 +2,6 @@ import box from '../images/love-box.jpg'
 
 const HomeTwo = () => {
   return (
-    <div>
       <div className="my-1 py-0 min-h-screen bg-white flex justify-center items-center">
         <div className="container flex justify-center">
           <div className="max-w-sm">
@@ -20,7 +19,6 @@ const HomeTwo = () => {
           </div>
         </div>
       </div>
-    </div>
   )
 }
 
