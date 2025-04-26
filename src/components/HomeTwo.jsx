@@ -4,7 +4,7 @@ const HomeTwo = () => {
   return (
     <div>
       <div className="my-0 py-0 px-0 mx-0 min-h-screen bg-white flex justify-center items-center">
-        <div className="container flex justify-center">
+        <div className="container flex justify-center p-0 m-0">
           <div className="max-w-sm">
             <div className="bg-red-700 relative shadow-lg hover:shadow-xl transition duration-500">
               <img className="rounded-br-lg rounded-bl-lg h-[26rem] md:h-96 lg:h-96 w-full" src={box} alt="love-box" />
